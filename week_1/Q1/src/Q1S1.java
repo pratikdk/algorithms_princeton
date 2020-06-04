@@ -1,0 +1,2 @@
+// keep iteratively calling unions for pair of members within each log entry and call connected to check if everyone is connected,
+// Determining the earliest time at which all members are connected, depends upon the distribution of random numbers of how I generate pairs to create each log pair.
