@@ -13,7 +13,6 @@ public class SelectionSort {
             }
             exch(arr, i, min);
         }
-
     }
 
     public static boolean less(Comparable v, Comparable w) {
